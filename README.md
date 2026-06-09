@@ -25,6 +25,7 @@ mpv/
 - **Persistent volume** — Volume level saved and restored across sessions
 - **Auto-playlist** — Automatically loads adjacent files in the same directory
 - **YouTube integration** — Stream quality selector and yt-dlp download support
+- **Image Viewer** — This setup also acts as a simple image viewer.
 
 ## Scripts
 
@@ -110,6 +111,12 @@ mpv/
 |---|---|
 | `Ctrl+D` | Download current video |
 | `Ctrl+A` | Download audio only |
+
+### Screenshots
+| Key | Action |
+|---|---|
+| `s` | Take screenshot |
+| `S` | Take screenshot without subtitles |
 
 ## Installation
 
