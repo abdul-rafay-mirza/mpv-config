@@ -2,6 +2,8 @@
 
 A personal mpv media player configuration with Anime4K shaders, interactive 360° video support, and a curated set of Lua scripts.
 
+I did not make any of these scripts. All credit goes to the script makers.
+
 ## Structure
 
 ```
@@ -57,6 +59,7 @@ mpv/
 
 | Key | Action |
 |---|---|
+| `Ctrl+e` | Toggle 360° view on a video |
 |`Ctrl+MBTN_LEFT` | Toggle / untoggle mouse look|
 | `k` | Cycle 360° projection formats (EAC → Equirect → Dual Fisheye → Half-Equirect → Cylindrical) |
 
