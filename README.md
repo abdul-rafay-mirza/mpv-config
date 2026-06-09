@@ -57,6 +57,7 @@ mpv/
 
 | Key | Action |
 |---|---|
+|`Ctrl+MBTN_LEFT` | Toggle / untoggle mouse look|
 | `k` | Cycle 360° projection formats (EAC → Equirect → Dual Fisheye → Half-Equirect → Cylindrical) |
 
 ### Pan & Scan
