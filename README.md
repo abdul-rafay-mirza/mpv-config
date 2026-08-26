@@ -118,6 +118,12 @@ mpv/
 | `s` | Take screenshot |
 | `S` | Take screenshot without subtitles |
 
+### Creating Chapters
+| Key | Action |
+|---|---|
+| `g` | Create chapter |
+| `B` | Export chapters as an XML file |
+
 ## Installation
 
 Copy the contents of this repo to your mpv config directory:
