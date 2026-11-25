@@ -131,7 +131,7 @@ Copy the contents of this repo to your mpv config directory:
 - **Linux/macOS:** `~/.config/mpv/`
 - **Windows:** `%APPDATA%/mpv/`
 
-> **Note:** The screenshot directory in `mpv.conf` is set to a Windows path. Update `screenshot-directory` to match your system before use.
+> **Note:** The screenshot directory in `mpv.conf` is set to a Linux path. Update `screenshot-directory` to match your system before use.
 
 ## Dependencies
 
